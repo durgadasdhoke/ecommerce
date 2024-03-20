@@ -1,0 +1,65 @@
+
+*{
+    background-color: rgb(19, 25, 33);
+    color: white;
+}
+body{
+    background-color: rgb(19, 25, 33);
+
+}
+
+.navbar{
+    background-color: rgb(19, 25, 33);
+    color: white;
+}
+.card{
+    height: 400px;
+    margin: 20px;
+}
+.contact{
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 800px;
+    margin: auto;
+}
+.accordion{
+    width: 80vw;
+    margin: auto;
+}
+.about{
+    width: 800px;
+    margin: auto;
+    padding: 50px;
+}
+
+#logo {
+    height: 2rem;
+    width: 6rem;
+    margin-left: 0;
+    margin: 0;
+}
+
+.bannerImg{
+    height: 100vh;
+    width: 100vw;
+}
+
+li {
+    list-style-type: none;
+}
+li .tw{
+    color: white;
+}
+ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+a{
+    color: white;
+    text-decoration: none;
+    padding-right: 30px;
+}
